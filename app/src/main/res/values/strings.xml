@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">To Do Capstone</string>
+    <string name="timestamp">TimeStamp</string>
+    <string name="note_title">Note Title</string>
+    <string name="enter_note_title">Enter Note Title</string>
+    <string name="enter_note_description">Enter Note Description</string>
+    <string name="button">Button</string>
+</resources>

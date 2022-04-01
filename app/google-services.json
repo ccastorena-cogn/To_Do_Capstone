@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "40496685022",
+    "project_id": "to-do-capstone",
+    "storage_bucket": "to-do-capstone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40496685022:android:fb766bb6ba8fd71dcd474f",
+        "android_client_info": {
+          "package_name": "com.example.todocapstone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40496685022-9r893iakjudr1db7jbhr7n8rdrp7uqjo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgJwji3korzy6HA9c5jlCJVTvZm-n4n5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40496685022-9r893iakjudr1db7jbhr7n8rdrp7uqjo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
