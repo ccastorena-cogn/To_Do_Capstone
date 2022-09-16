@@ -12,23 +12,6 @@ class Note(
     ) {
 
     @PrimaryKey(autoGenerate = true)
-
     var id = 0
-
-    fun note() {
-    }
-
-    fun getTitle(): String {
-        return noteTitle
-    }
-
-    fun getDescription(): String {
-        return noteDescription
-    }
-
-    fun getTime(): String {
-        return timeStamp
-    }
-
 }
 
